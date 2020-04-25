@@ -1,0 +1,8 @@
+site_name: mdzk
+
+# nav will be auto-generated!
+
+theme:
+  name: material
+  palette:
+    primary: 'black'

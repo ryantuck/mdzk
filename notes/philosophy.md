@@ -1,0 +1,5 @@
+## philosophers
+
+- +plato
+- +heidegger
+- +sartre
