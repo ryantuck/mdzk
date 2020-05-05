@@ -1,1 +1,0 @@
-## philosophers - [plato](plato.md) - [heidegger](heidegger.md) - [sartre](sartre.md)

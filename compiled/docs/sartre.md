@@ -1,1 +1,0 @@
-Wrote [being and nothingness](being-and-nothingness.md) Had crazy eyes. Was french.

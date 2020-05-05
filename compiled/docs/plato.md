@@ -1,1 +1,0 @@
-Wrote a lot about [socrates](socrates.md) Was greek.

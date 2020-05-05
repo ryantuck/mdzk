@@ -1,1 +1,0 @@
-School of thought, made popular by [kierkegaard](kierkegaard.md) [heidegger](heidegger.md) [sartre](sartre.md)
